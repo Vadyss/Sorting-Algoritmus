@@ -3,7 +3,7 @@ import random
 class sorting_alg:
     numbers = []
 
-    n = input("Kolik čísel chce vygenerovat?")
+    n = input("How many numbers do you want to generate, and then sort?")
 
     n = int(n)
 
